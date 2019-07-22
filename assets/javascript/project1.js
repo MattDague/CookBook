@@ -130,7 +130,7 @@ $("#cityButton").on("click", function (event) {
       method: "GET",
       headers: {
         Authorization: "Bearer f_OWbSivdwPfDyl30viNm1pnNTDjKRkxJILe56UtQARE0RCvNNOoDY11kZPHD3XBxpDDsHLcQ4gUlUfE_-CxM89He8J5bEgGByTO56_pk-LILybh25BE7NgrRLQsXXYx",
-
+      
       },
       dataType: 'json',
 
